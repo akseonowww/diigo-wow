@@ -1,1 +1,1 @@
-# re-diigo
+# diigo-wow
